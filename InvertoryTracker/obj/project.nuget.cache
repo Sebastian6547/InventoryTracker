@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3LAu2i5j2NUc+hOl8tgwY1ApPqsDgd2lduj80d8SiEpl3d/ga/GVfngHMcQymckgCyKaMwClhZ9N37KkzdVkcA==",
+  "dgSpecHash": "aCHwv21wrVQybzLCL+z0geBSFkaRyI6ZT8ISZOQarDhpSrVodooemVvQI3bPI/Uu4x48HUrIOILPEWW4ndzwKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\utilisateur\\Documents\\school\\semester 3\\prog\\InvertoryTracker\\InvertoryTracker\\InvertoryTracker.csproj",
+  "projectFilePath": "C:\\Users\\utilisateur\\Documents\\GitHub\\Programming3InventoryTracker\\InvertoryTracker\\InvertoryTracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\utilisateur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
   ],

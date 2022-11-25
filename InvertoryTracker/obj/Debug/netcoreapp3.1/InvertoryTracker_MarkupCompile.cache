@@ -1,18 +1,18 @@
 ﻿InvertoryTracker
-
+1.0.0.0
 
 winexe
 C#
 .cs
-C:\Users\utilisateur\Documents\school\semester 3\prog\InvertoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\
+c:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\
 InvertoryTracker
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\utilisateur\Documents\school\semester 3\prog\InvertoryTracker\InvertoryTracker\App.xaml
+c:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\App.xaml
 4-1736387698
 
-8-1841512828
+101184401531
 192-1533232326
 CreateItemWindow.xaml;EditItemWindow.xaml;MainWindow.xaml;ShoppingListWindow.xaml;
 

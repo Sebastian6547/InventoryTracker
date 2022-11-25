@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\utilisateur\\Documents\\school\\semester 3\\prog\\InvertoryTracker\\InvertoryTracker\\InvertoryTracker.csproj",
+      "projectUniqueName": "C:\\Users\\utilisateur\\Documents\\GitHub\\Programming3InventoryTracker\\InvertoryTracker\\InvertoryTracker.csproj",
       "projectName": "InvertoryTracker",
-      "projectPath": "C:\\Users\\utilisateur\\Documents\\school\\semester 3\\prog\\InvertoryTracker\\InvertoryTracker\\InvertoryTracker.csproj",
+      "projectPath": "C:\\Users\\utilisateur\\Documents\\GitHub\\Programming3InventoryTracker\\InvertoryTracker\\InvertoryTracker.csproj",
       "packagesPath": "C:\\Users\\utilisateur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\utilisateur\\Documents\\school\\semester 3\\prog\\InvertoryTracker\\InvertoryTracker\\obj\\",
+      "outputPath": "C:\\Users\\utilisateur\\Documents\\GitHub\\Programming3InventoryTracker\\InvertoryTracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -24,3 +24,29 @@ C:\Users\utilisateur\Documents\school\semester 3\prog\InvertoryTracker\Invertory
 C:\Users\utilisateur\Documents\school\semester 3\prog\InvertoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\InvertoryTracker.genruntimeconfig.cache
 C:\Users\utilisateur\Documents\school\semester 3\prog\InvertoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\InvertoryTracker.csproj.AssemblyReference.cache
 C:\Users\utilisateur\Documents\school\semester 3\prog\InvertoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\InvertoryTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\bin\Debug\netcoreapp3.1\InvertoryTracker.exe
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\bin\Debug\netcoreapp3.1\InvertoryTracker.deps.json
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\bin\Debug\netcoreapp3.1\InvertoryTracker.runtimeconfig.json
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\bin\Debug\netcoreapp3.1\InvertoryTracker.runtimeconfig.dev.json
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\bin\Debug\netcoreapp3.1\InvertoryTracker.dll
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\bin\Debug\netcoreapp3.1\InvertoryTracker.pdb
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\InvertoryTracker.csproj.AssemblyReference.cache
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\CreateItemWindow.g.cs
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\EditItemWindow.g.cs
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\ShoppingListWindow.g.cs
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\InvertoryTracker_MarkupCompile.cache
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\InvertoryTracker_MarkupCompile.lref
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\CreateItemWindow.baml
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\EditItemWindow.baml
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\ShoppingListWindow.baml
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\InvertoryTracker.g.resources
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\InvertoryTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\InvertoryTracker.AssemblyInfoInputs.cache
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\InvertoryTracker.AssemblyInfo.cs
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\InvertoryTracker.csproj.CoreCompileInputs.cache
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\InvertoryTracker.dll
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\InvertoryTracker.pdb
+C:\Users\utilisateur\Documents\GitHub\Programming3InventoryTracker\InvertoryTracker\obj\Debug\netcoreapp3.1\InvertoryTracker.genruntimeconfig.cache
